@@ -1,4 +1,4 @@
-# EDA on number of Illiterates in Rural Telangana
+# EDA on Number of Illiterates in Rural Telangana
 
 ### The dataset is taken from [Open Data Telangana](https://data.telangana.gov.in/dataset/number-illiterates-rural-telangana)
 
