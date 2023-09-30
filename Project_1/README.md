@@ -10,7 +10,9 @@ This dataset provides information about the number of illiterates in the rural a
 
 **Period:** 2014.
 
-- **Problem Statement:** Analyse the number of illiterates in Telangana during the year 2014 and compare it with the current year(2023).
+- **Problem Statement:**
+
+  - Analyse the number of illiterates in Telangana during the year 2014 and compare it with the current year(2023).
 
 - **Observations:**
 
@@ -26,4 +28,6 @@ This dataset provides information about the number of illiterates in the rural a
 
   - According to [indiacensus.net](https://www.indiacensus.net/states/telangana/literacy), the top 3 highest illiterate districts of Telangana in the year 2023 are Jogulamba Gadwal(former Mahabubnagar), Narayanpet(former Mahabubnagar) and Nagarkurnool(former Mahabubnagar).
 
-- **Conclusion:** Even after 9 years, the district that was once known as Mahabubnagar has the highest percentage of illiterates in Telangana.
+- **Conclusion:**
+
+  - Even after 9 years, the district that was once known as Mahabubnagar has the highest percentage of illiterates in Telangana.
