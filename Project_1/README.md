@@ -10,6 +10,8 @@ This dataset provides information about the number of illiterates in the rural a
 
 **Period:** 2014.
 
+**Problem Statement:** Analyse the number of illiterates in Telangana during the year 2014 and compare it with the current year(2023).
+
 **Observations:**
 
   - During the period 2014, the top 3 highest number of illiterates according to the old districts were in Rural Telangana from Mahabubnagar with 14,75,524 members, Karimnagar with 10,58,837 members and Nalgonda with 10,45,305 members.
