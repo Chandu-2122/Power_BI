@@ -10,9 +10,9 @@ This dataset provides information about the number of illiterates in the rural a
 
 **Period:** 2014.
 
-**Problem Statement:** Analyse the number of illiterates in Telangana during the year 2014 and compare it with the current year(2023).
+- **Problem Statement:** Analyse the number of illiterates in Telangana during the year 2014 and compare it with the current year(2023).
 
-**Observations:**
+- **Observations:**
 
   - During the period 2014, the top 3 highest number of illiterates according to the old districts were in Rural Telangana from Mahabubnagar with 14,75,524 members, Karimnagar with 10,58,837 members and Nalgonda with 10,45,305 members.
   
@@ -24,6 +24,6 @@ This dataset provides information about the number of illiterates in the rural a
   
   - In Urban Telangana, Rangareddy district had 34% of illiterates of which maximum number of illiterates(19126) were from Serilingampally Muncipality, and least(19) were in Ibrahimpatnam Muncipality.
 
-According to [indiacensus.net](https://www.indiacensus.net/states/telangana/literacy), the top 3 highest illiterate districts of Telangana in the year 2023 are Jogulamba Gadwal(former Mahabubnagar), Narayanpet(former Mahabubnagar) and Nagarkurnool(former Mahabubnagar).
+  - According to [indiacensus.net](https://www.indiacensus.net/states/telangana/literacy), the top 3 highest illiterate districts of Telangana in the year 2023 are Jogulamba Gadwal(former Mahabubnagar), Narayanpet(former Mahabubnagar) and Nagarkurnool(former Mahabubnagar).
 
-**Conclusion:** Even after 9 years, the district that was once known as Mahabubnagar has the highest percentage of illiterates in Telangana.
+- **Conclusion:** Even after 9 years, the district that was once known as Mahabubnagar has the highest percentage of illiterates in Telangana.
