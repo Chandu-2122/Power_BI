@@ -5,9 +5,6 @@
 
 ### Organisation: Commissioner and Director of School Education
 
-### Credits: 
-***Thanks to the Telangana Government for providing real-time datasets for public access which is a great learning asset.***
-
 This dataset provides information about the number of illiterates in the rural areas of Telangana State by gender to gram panchayat level
 
 **NOTE:** This data is according to the old districts.
@@ -17,6 +14,10 @@ This dataset provides information about the number of illiterates in the rural a
 - **Problem Statement:**
 
   - Analyse the number of illiterates in Telangana during the year 2014 and compare it with the current year(2023).
+ 
+- **Dashboard snippet:**
+
+- ![image](https://github.com/Chandu-2122/Power_BI/assets/107211229/cc44aca3-fa5a-425a-a35e-227c4bc86871)
 
 - **Observations:**
 
@@ -36,3 +37,5 @@ This dataset provides information about the number of illiterates in the rural a
 
   - Even after 9 years, the district that was once known as Mahabubnagar has the highest percentage of illiterates in Telangana.
 
+### Credits: 
+***Thanks to the Telangana Government for providing real-time datasets for public access which is a great learning asset.***
