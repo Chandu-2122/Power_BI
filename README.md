@@ -1,12 +1,12 @@
-# Projects
-## Exploring and working on real-time datasets from [Open Data Telangana](https://data.telangana.gov.in/)
-### Credits: 
-***Thanks to the Telangana Government for providing real-time datasets for public access which is a great learning asset.***
+
 # EDA on Number of Illiterates in Rural Telangana
 
 ### The dataset is taken from [Open Data Telangana](https://data.telangana.gov.in/dataset/number-illiterates-rural-telangana)
 
 ### Organisation: Commissioner and Director of School Education
+
+### Credits: 
+***Thanks to the Telangana Government for providing real-time datasets for public access which is a great learning asset.***
 
 This dataset provides information about the number of illiterates in the rural areas of Telangana State by gender to gram panchayat level
 
@@ -35,3 +35,4 @@ This dataset provides information about the number of illiterates in the rural a
 - **Conclusion:**
 
   - Even after 9 years, the district that was once known as Mahabubnagar has the highest percentage of illiterates in Telangana.
+
