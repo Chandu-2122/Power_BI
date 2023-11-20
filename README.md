@@ -17,7 +17,8 @@ This dataset provides information about the number of illiterates in the rural a
  
 - **Dashboard snippet:**
 
-- ![image](https://github.com/Chandu-2122/Power_BI/assets/107211229/cc44aca3-fa5a-425a-a35e-227c4bc86871)
+- ![powerbi_snippet](https://github.com/Chandu-2122/Power_BI/assets/107211229/adc3dd19-d639-4279-867a-803f4e082002)
+
 
 - **Observations:**
 
